@@ -11,5 +11,5 @@ check this [website](https://joewang.notion.site/f9e58b77b242444abea672542d53786
 
 ## 1. Frame-Level Speech Recognition
 
-Please check this [notebook](./HW1.ipynb) for implemention details.
+Please check this [notebook](./HW1.html) for implemention details.
 
