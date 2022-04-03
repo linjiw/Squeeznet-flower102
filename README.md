@@ -13,7 +13,7 @@ Please check this [notebook](./HW1.html) for implemention details.
 
 ## 2. Face Classification & Verification
 
-Please check this [notebook](./HW1.html) for implemention details.
+Please check this [notebook](./HW2P2_code.html) for implemention details.
 
 # Squeeznet-flower102
 ## Here is the sample code about trainning on CNN.
