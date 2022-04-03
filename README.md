@@ -1,7 +1,4 @@
-# Squeeznet-flower102
-Implement SqueezeNet with flower102 dataste
 
-check this [website](./src/squeeeznet_flower_tutorial.html) to have an idea of the implementation.
 
 # Linji's Reading
 
@@ -12,4 +9,15 @@ check this [website](https://joewang.notion.site/f9e58b77b242444abea672542d53786
 ## 1. Frame-Level Speech Recognition
 
 Please check this [notebook](./HW1.html) for implemention details.
+
+## 2. Face Classification & Verification
+
+Please check this [notebook](./HW1.html) for implemention details.
+
+# Squeeznet-flower102
+## Here is the sample code about trainning on CNN.
+
+Implement SqueezeNet with flower102 dataste
+
+check this [website](./src/squeeeznet_flower_tutorial.html) to have an idea of the implementation.
 
