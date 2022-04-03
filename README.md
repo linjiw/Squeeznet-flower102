@@ -1,4 +1,5 @@
-
+# Linji's Website
+Good night.
 
 # Linji's Reading
 
