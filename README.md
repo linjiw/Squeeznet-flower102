@@ -1,9 +1,12 @@
 # Linji's Website
 Good night.
 
-# Linji's Reading
+# Chinese Reading
 
-check this [website](https://joewang.notion.site/f9e58b77b242444abea672542d537866?v=ff94b5d39c174fb6a99a54ffaf7f5a35) for some great Chinese language books.
+check this [notion notebook](https://joewang.notion.site/f9e58b77b242444abea672542d537866?v=ff94b5d39c174fb6a99a54ffaf7f5a35) for some great Chinese language books.
+
+# My Childhood
+check this [notion notebook](https://joewang.notion.site/2ad18416686f40dda9396d57f0e9d6af) for some of me.
 
 # 11785 Deep Learning Kaggle Competition
 
