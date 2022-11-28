@@ -1,5 +1,5 @@
 # Linji Wang
-[selfie](./applications/linjiw.jpg)
+![selfie](./applications/linjiw.jpg)
 # [CV](./applications/Linji%20Wang_CV.pdf)
 
 
@@ -19,6 +19,6 @@
 24-787 [Machine Learning and Artificial Intelligence for Engineers](https://24787ml.github.io/)\\
 24-780 [Engineering Computations](https://www.andrew.cmu.edu/course/24-780/)\\
 24-785 [Engineering Optimization](https://www.meche.engineering.cmu.edu/education/courses/24-785.html)\\
-17-615 Data Structure & Algorithms\\
+17-615 Data Structure & Algorithms
 
 
