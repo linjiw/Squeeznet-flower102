@@ -1,27 +1,25 @@
-# Linji's Website
-Good night.
+# Linji Wang
+Machine learning, Computer Vision, and Reinforcement Learning.
 
-# Chinese Reading
+# CV
+[CV](./applications/Linji%20Wang_CV.pdf)
 
-check this [notion notebook](https://joewang.notion.site/f9e58b77b242444abea672542d537866?v=ff94b5d39c174fb6a99a54ffaf7f5a35) for some great Chinese language books.
+# Statement of Purpose (Computer Science)
+[SOP](./applications/Linji_Wang_SOP_CS.pdf)
 
-# My Childhood
-check this [notion notebook](https://joewang.notion.site/2ad18416686f40dda9396d57f0e9d6af) for some of me.
 
-# 11785 Deep Learning Kaggle Competition
 
-## 1. Frame-Level Speech Recognition
+# Teaching Expeirence
+24-787 Machine Learning and Artificial Intelligence for Engineers
 
-Please check this [notebook](./HW1.html) for implementation details.
 
-## 2. Face Classification & Verification
+# Course taken at CMU
+11-785 Deep Learning
+16-720 Computer Vision
+10-703 Reinforcement Learning
+24-787 Machine Learning and Artificial Intelligence for Engineers
+24-780 Engineering Computations
+24-785 Engineering Optimization
+17-615 Data Structure & Algorithms
 
-Please check this [notebook](./HW2P2_code.html) and [markdown](./handin/README.md) for implementation details.
-
-# Squeeznet-flower102
-## Here is the sample code about training on CNN.
-
-Implement SqueezeNet with flower102 dataset
-
-check this [website](./src/squeeeznet_flower_tutorial.html) to have an idea of the implementation.
 
