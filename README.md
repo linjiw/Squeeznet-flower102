@@ -1,4 +1,3 @@
-# Linji Wang
 ![selfie](./applications/linjiw.jpg)
 # [CV](./applications/Linji%20Wang_CV.pdf)
 
